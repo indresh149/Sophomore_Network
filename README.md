@@ -1,4 +1,4 @@
-Sophomore_Network
+
 A web based college network system
 
 Users can chat ,follow ,post and connect to all the students across the college network from different colleges .
